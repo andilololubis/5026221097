@@ -53,6 +53,9 @@
                 <a class="nav-link me-lg-3" href="#testimonials">Testimonials</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link me-lg-3" href="#tugas">Tugas</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link me-lg-3" href="#contact">Contact</a>
               </li>
             </ul>
@@ -263,18 +266,14 @@
         </div>
         <div class="container mb-5">
           <div class="row">
-            <div class="col-lg-4 mx-auto mb-5">
-              <div class="text-center fs-4 fst-italic mb-4 px-2">
-                Desain yang keren
-              </div>
-              <div class="d-flex align-items-center justify-content-center testimonial">
-                <img class="rounded-circle me-3" src="images/user1.png" alt="User 1">
-                <div class="fw-bold">
-                  Limbad
-                  <span class="text-primary mx-1">/</span>
-                  Klien ketika Freelance
-                </div>
-              </div>
+            <a class="btn btn-outline-primary btn-large text-uppercase mb-2" href="/linktree">
+              Linktree
+              <span class="material-icons-outlined ms-2">manage_search</span>
+            </a>
+            <a class="btn btn-outline-primary btn-large text-uppercase mb-2" href="/week5">
+              Week 5 Testimonial
+              <span class="material-icons-outlined ms-2">manage_search</span>
+            </a>
             </div>
           </div>
         </div>
